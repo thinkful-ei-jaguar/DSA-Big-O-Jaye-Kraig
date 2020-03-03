@@ -8,7 +8,7 @@
 
 4. O(n), because you are always going the length of the array everytime
 
-5. O(1), because it is not doing any operation
+5. O(1), because it is not doing any operation, this is wrong redo
 
 6. O(n^2), because of the nested for loops
 
@@ -27,4 +27,6 @@
 13.
 
 14.
+
+
 
