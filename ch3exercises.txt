@@ -1,1 +1,30 @@
-1. 
+1.1 O(1),  because since everyone can hear you, you only have to say it once and you'll receive feedback immediately
+
+1.2 O(n), because you're asking people one by one and the more people there are, the more time it will take
+
+2. O(1), because it is only doing one operation to return true or false
+
+3. O(n^2), because of the nested for loops
+
+4. O(n), because you are always going the length of the array everytime
+
+5. O(1), because it is not doing any operation
+
+6. O(n^2), because of the nested for loops
+
+7. O(n), 
+
+8. O(log(n)), 
+
+9. O(1), 
+
+10. 
+
+11.
+
+12.
+
+13.
+
+14.
+
