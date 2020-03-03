@@ -8,25 +8,19 @@
 
 4. O(n), because you are always going the length of the array everytime
 
-5. O(1), because it is not doing any operation, this is wrong redo
+5. O(n), because at worst it'll go through the array once
 
 6. O(n^2), because of the nested for loops
 
-7. O(n), 
+7. O(n), always doing the add operation from 3rd index in array onwards
 
-8. O(log(n)), 
+8. O(log(n)), always cut the search in half so you don't traverse through the whole array
 
-9. O(1), 
+9. O(1), just one operation to return an element, immediate feedback
 
-10. 
+10. O(n), at worst you go through the entire for loop when the number is prime
 
-11.
-
-12.
-
-13.
-
-14.
+11. O(2^n), the moves get exponentially larger the more rings there are
 
 
 
